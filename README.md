@@ -11,4 +11,4 @@ This notebook contains my solutions for Lab 1 of the Python course.
 - Basic linear algebra
 
 ## File
-- `lab1_firstname_lastname.ipynb`
+- `lab1_Lavoisier_MUKAM.ipynb`
